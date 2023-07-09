@@ -152,8 +152,48 @@ margin: 5px;
     color: rgb(29, 28, 28);
     padding: 5px;
     font-size: 17px;
-    
+
   }
   .resume-item-title{
      font-size: 20px;
   }
+
+   .download-cv{
+    text-align: center;
+    background-color: rgb(131, 127, 127);
+   }
+   .cv{
+    background-color: burlywood;
+color: black;
+cursor: pointer;
+padding: 5px;
+margin: 5px;
+
+   }
+   /* link item */
+   .link-pik{
+    width: 50px;
+    height: 40px;
+   }
+   footer{
+    display: flex;
+    background-color: rgb(240, 240, 182);
+    padding: 130px 200px;
+   }
+
+   .section-title, input {
+    display: block;
+    margin: 6px;
+    align-items: center;
+
+   }
+   
+   .btn4{
+    background-color: blueviolet;
+    padding: 7px;
+    font-size: 10px;
+   }
+   .section-title{
+    margin: 8px ;
+   }
+   
